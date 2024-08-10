@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    justify-content: center;
+    padding-top: 10%;
+}
+
+.login{
+    border: 1px solid rgb(179, 179, 179);
+    padding: 30px 100px;
+    border-radius: 20px;
+}
+
+.login form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
